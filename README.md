@@ -1,4 +1,4 @@
-# Jogos-Bateria
+# Jogo Bateria
 Jogo sons de bateria feito com JavaScript
 
 ## 🚀 Começando
